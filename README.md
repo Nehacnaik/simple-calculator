@@ -1,2 +1,3 @@
 # simple-calculator
-HTML and JS
+web development HTML and JS
+module-3 assignment-1
